@@ -14,7 +14,7 @@
 
 :small_blue_diamond: [Funcionalidades](#funcionalidades)
 
-:small_blue_diamond: [Layout da aplicação](#deploy-da-aplicação-dash)
+:small_blue_diamond: [Layout do projeto](#layout-do-projeto-dash)
 
 :small_blue_diamond: [Pré-requisitos](#pré-requisitos)
 
@@ -51,48 +51,32 @@ No terminal, clone o projeto:
 
 git clone git@github.com:jpnc1695/dbDeNegociacao.git
 
-## Casos de Uso
-
-Explique com mais detalhes como a sua aplicação poderia ser utilizada. O uso de **gifs** aqui seria bem interessante. 
-
-Exemplo: Caso a sua aplicação tenha alguma funcionalidade de login apresente neste tópico os dados necessários para acessá-la.
-
-## Iniciando/Configurando banco de dados
-
-Se for necessário configurar algo antes de iniciar o banco de dados insira os comandos a serem executados 
-
 ## Linguagens, dependencias e libs utilizadas :books:
 
-- [React](https://pt-br.reactjs.org/docs/create-a-new-react-app.html)
-- [React PDF](https://react-pdf.org/)
-
-...
-
-Liste as tecnologias utilizadas no projeto que **não** forem reconhecidas pelo Github 
-
-## Resolvendo Problemas :exclamation:
-
-Em [issues]() foram abertos alguns problemas gerados durante o desenvolvimento desse projeto e como foram resolvidos. 
+- ``Java Script``
+- ``Html``
+- ``Css``
+- ``Vs Code``
+- ``BootStrap``
+- ``IndexDDB``
+- ``Babel``
+- ``System Js``
 
 ## Tarefas em aberto
 
-Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementadas na sua aplicação
+:memo: Adicionar as negociações em ordem crescente e descrescente
 
-:memo: Tarefa 1 
+:memo: remover individualmente cada negociação
 
-:memo: Tarefa 2 
+:memo: Cadastrar qual modelo de negociação é realizado 
 
-:memo: Tarefa 3 
+## Desenvolvedor:octocat:
+| [<img src="https://avatars.githubusercontent.com/u/84605494?v=4" width=115><br><sub>João Paulo N Costa</sub>](https://github.com/jpnv1695) |  
+| :---: |
 
-## Desenvolvedores/Contribuintes :octocat:
-
-Liste o time responsável pelo desenvolvimento do projeto
-
-| [<img src="https://avatars2.githubusercontent.com/u/46378210?s=400&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=4" width=115><br><sub>Diana Regina</sub>](https://github.com/Diana-ops) |  [<img src="https://avatars2.githubusercontent.com/u/46378210?s=400&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=4" width=115><br><sub>Diana Regina</sub>](https://github.com/Diana-ops) |  [<img src="https://avatars2.githubusercontent.com/u/46378210?s=400&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=4" width=115><br><sub>Diana Regina</sub>](https://github.com/Diana-ops) |
-| :---: | :---: | :---: 
 
 ## Licença 
 
-The [MIT License]() (MIT)
+The [Git hub]() (Git Hub)
 
-Copyright :copyright: Ano - Titulo do Projeto
+Copyright :copyright: 2022 - Bando de Negociações
