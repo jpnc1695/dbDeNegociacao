@@ -57,7 +57,7 @@
 
 No terminal, clone o projeto: 
 
-git clone git@github.com:jpnc1695/dbDeNegociacao.git
+``git clone``  git@github.com:jpnc1695/dbDeNegociacao.git
 
 ## Linguagens, dependencias e libs utilizadas :books:
 
